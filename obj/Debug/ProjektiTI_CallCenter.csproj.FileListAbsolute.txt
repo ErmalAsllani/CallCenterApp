@@ -1,0 +1,61 @@
+C:\Users\ermal\Desktop\Projekti_TI\ProjektiTI_CallCenter\ProjektiTI_CallCenter\bin\Debug\ProjektiTI_CallCenter.exe.config
+C:\Users\ermal\Desktop\Projekti_TI\ProjektiTI_CallCenter\ProjektiTI_CallCenter\bin\Debug\ProjektiTI_CallCenter.exe
+C:\Users\ermal\Desktop\Projekti_TI\ProjektiTI_CallCenter\ProjektiTI_CallCenter\bin\Debug\ProjektiTI_CallCenter.pdb
+C:\Users\ermal\Desktop\Projekti_TI\ProjektiTI_CallCenter\ProjektiTI_CallCenter\bin\Debug\MetroFramework.dll
+C:\Users\ermal\Desktop\Projekti_TI\ProjektiTI_CallCenter\ProjektiTI_CallCenter\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\ermal\Desktop\Projekti_TI\ProjektiTI_CallCenter\ProjektiTI_CallCenter\obj\Debug\ProjektiTI_CallCenter.csprojAssemblyReference.cache
+C:\Users\ermal\Desktop\Projekti_TI\ProjektiTI_CallCenter\ProjektiTI_CallCenter\obj\Debug\ProjektiTI_CallCenter.Properties.Resources.resources
+C:\Users\ermal\Desktop\Projekti_TI\ProjektiTI_CallCenter\ProjektiTI_CallCenter\obj\Debug\ProjektiTI_CallCenter.csproj.GenerateResource.cache
+C:\Users\ermal\Desktop\Projekti_TI\ProjektiTI_CallCenter\ProjektiTI_CallCenter\obj\Debug\ProjektiTI_CallCenter.csproj.CoreCompileInputs.cache
+C:\Users\ermal\Desktop\Projekti_TI\ProjektiTI_CallCenter\ProjektiTI_CallCenter\obj\Debug\ProjektiTI_CallCenter.csproj.CopyComplete
+C:\Users\ermal\Desktop\Projekti_TI\ProjektiTI_CallCenter\ProjektiTI_CallCenter\obj\Debug\ProjektiTI_CallCenter.exe
+C:\Users\ermal\Desktop\Projekti_TI\ProjektiTI_CallCenter\ProjektiTI_CallCenter\obj\Debug\ProjektiTI_CallCenter.pdb
+C:\Users\ermal\Desktop\Projekti_TI\ProjektiTI_CallCenter\ProjektiTI_CallCenter\obj\Debug\ProjektiTI_CallCenter.LoginUI.resources
+C:\Users\ermal\Desktop\Projekti_TI\ProjektiTI_CallCenter\ProjektiTI_CallCenter\obj\Debug\ProjektiTI_CallCenter.Registration.resources
+C:\Users\ermal\Desktop\Projekti_TI\ProjektiTI_CallCenter\ProjektiTI_CallCenter\obj\Debug\ProjektiTI_CallCenter.EmployeeUI.resources
+C:\Users\ermal\Desktop\Projekti_TI\ProjektiTI_CallCenter\ProjektiTI_CallCenter\obj\Debug\ProjektiTI_CallCenter.Recorded_Conversations.resources
+C:\Users\ermal\Desktop\Projekti_TI\ProjektiTI_CallCenter\ProjektiTI_CallCenter\obj\Debug\ProjektiTI_CallCenter.RegistrationUI.resources
+C:\Users\ermal\Desktop\Projekti_TI\ProjektiTI_CallCenter\ProjektiTI_CallCenter\obj\Debug\ProjektiTI_CallCenter.ADDPROJECT.resources
+C:\Users\ermal\Desktop\Projekti_TI\ProjektiTI_CallCenter\ProjektiTI_CallCenter\obj\Debug\ProjektiTI_CallCenter.AdminPanelUI.resources
+C:\Users\ermal\Desktop\Projekti_TI\ProjektiTI_CallCenter\ProjektiTI_CallCenter\obj\Debug\ProjektiTI_CallCenter.AssignProject.resources
+C:\Users\ermal\Desktop\Projekti_TI\ProjektiTI_CallCenter\ProjektiTI_CallCenter\obj\Debug\ProjektiTI_CallCenter.Chat.resources
+C:\Users\ermal\Desktop\Projekti_TI\ProjektiTI_CallCenter\ProjektiTI_CallCenter\obj\Debug\ProjektiTI_CallCenter.CustomerUI.resources
+C:\Users\ermal\Desktop\Projekti_TI\ProjektiTI_CallCenter\ProjektiTI_CallCenter\obj\Debug\ProjektiTI_CallCenter.RecordUI.resources
+C:\Users\ermal\Desktop\Projekti_TI\ProjektiTI_CallCenter\ProjektiTI_CallCenter\obj\Debug\ProjektiTI_CallCenter.UserList.resources
+C:\Users\ermal\Desktop\Projekti_TI\ProjektiTI_CallCenter\ProjektiTI_CallCenter\obj\Debug\ProjektiTI_CallCenter.ViewProfileUI.resources
+C:\Users\ermal\Desktop\Projekti_TI\ProjektiTI_CallCenter\ProjektiTI_CallCenter\obj\Debug\ProjektiTI_CallCenter.ViewProjectUI.resources
+C:\Users\ermal\Desktop\Projekti_TI\ProjektiTI_CallCenter\ProjektiTI_CallCenter\obj\Debug\ProjektiTI_CallCenter.View_Report.resources
+C:\Users\ermal\Desktop\Projekti_TI\ProjektiTI_CallCenter\ProjektiTI_CallCenter\bin\Debug\Database1.mdf
+C:\Users\ermal\Desktop\Projekti_TI\ProjektiTI_CallCenter\ProjektiTI_CallCenter\bin\Debug\Database1_log.ldf
+C:\Users\ermal\Desktop\Projekti_TI\ProjektiTI_CallCenter\ProjektiTI_CallCenter\bin\Debug\MetroFramework.Design.dll
+C:\Users\Admin\OneDrive\Desktop\Asus_Ermal\ermal _krejt\Projekti_TI\ProjektiTI_CallCenter\ProjektiTI_CallCenter\bin\Debug\Database1.mdf
+C:\Users\Admin\OneDrive\Desktop\Asus_Ermal\ermal _krejt\Projekti_TI\ProjektiTI_CallCenter\ProjektiTI_CallCenter\bin\Debug\Database1_log.ldf
+C:\Users\Admin\OneDrive\Desktop\Asus_Ermal\ermal _krejt\Projekti_TI\ProjektiTI_CallCenter\ProjektiTI_CallCenter\bin\Debug\ProjektiTI_CallCenter.exe.config
+C:\Users\Admin\OneDrive\Desktop\Asus_Ermal\ermal _krejt\Projekti_TI\ProjektiTI_CallCenter\ProjektiTI_CallCenter\bin\Debug\ProjektiTI_CallCenter.exe
+C:\Users\Admin\OneDrive\Desktop\Asus_Ermal\ermal _krejt\Projekti_TI\ProjektiTI_CallCenter\ProjektiTI_CallCenter\bin\Debug\ProjektiTI_CallCenter.pdb
+C:\Users\Admin\OneDrive\Desktop\Asus_Ermal\ermal _krejt\Projekti_TI\ProjektiTI_CallCenter\ProjektiTI_CallCenter\bin\Debug\MetroFramework.Design.dll
+C:\Users\Admin\OneDrive\Desktop\Asus_Ermal\ermal _krejt\Projekti_TI\ProjektiTI_CallCenter\ProjektiTI_CallCenter\bin\Debug\MetroFramework.dll
+C:\Users\Admin\OneDrive\Desktop\Asus_Ermal\ermal _krejt\Projekti_TI\ProjektiTI_CallCenter\ProjektiTI_CallCenter\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Admin\OneDrive\Desktop\Asus_Ermal\ermal _krejt\Projekti_TI\ProjektiTI_CallCenter\ProjektiTI_CallCenter\obj\Debug\ProjektiTI_CallCenter.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Desktop\Asus_Ermal\ermal _krejt\Projekti_TI\ProjektiTI_CallCenter\ProjektiTI_CallCenter\obj\Debug\ProjektiTI_CallCenter.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\OneDrive\Desktop\Asus_Ermal\ermal _krejt\Projekti_TI\ProjektiTI_CallCenter\ProjektiTI_CallCenter\obj\Debug\ProjektiTI_CallCenter.ADDPROJECT.resources
+C:\Users\Admin\OneDrive\Desktop\Asus_Ermal\ermal _krejt\Projekti_TI\ProjektiTI_CallCenter\ProjektiTI_CallCenter\obj\Debug\ProjektiTI_CallCenter.AdminPanelUI.resources
+C:\Users\Admin\OneDrive\Desktop\Asus_Ermal\ermal _krejt\Projekti_TI\ProjektiTI_CallCenter\ProjektiTI_CallCenter\obj\Debug\ProjektiTI_CallCenter.AssignProject.resources
+C:\Users\Admin\OneDrive\Desktop\Asus_Ermal\ermal _krejt\Projekti_TI\ProjektiTI_CallCenter\ProjektiTI_CallCenter\obj\Debug\ProjektiTI_CallCenter.Chat.resources
+C:\Users\Admin\OneDrive\Desktop\Asus_Ermal\ermal _krejt\Projekti_TI\ProjektiTI_CallCenter\ProjektiTI_CallCenter\obj\Debug\ProjektiTI_CallCenter.CustomerUI.resources
+C:\Users\Admin\OneDrive\Desktop\Asus_Ermal\ermal _krejt\Projekti_TI\ProjektiTI_CallCenter\ProjektiTI_CallCenter\obj\Debug\ProjektiTI_CallCenter.EmployeeUI.resources
+C:\Users\Admin\OneDrive\Desktop\Asus_Ermal\ermal _krejt\Projekti_TI\ProjektiTI_CallCenter\ProjektiTI_CallCenter\obj\Debug\ProjektiTI_CallCenter.LoginUI.resources
+C:\Users\Admin\OneDrive\Desktop\Asus_Ermal\ermal _krejt\Projekti_TI\ProjektiTI_CallCenter\ProjektiTI_CallCenter\obj\Debug\ProjektiTI_CallCenter.Properties.Resources.resources
+C:\Users\Admin\OneDrive\Desktop\Asus_Ermal\ermal _krejt\Projekti_TI\ProjektiTI_CallCenter\ProjektiTI_CallCenter\obj\Debug\ProjektiTI_CallCenter.Recorded_Conversations.resources
+C:\Users\Admin\OneDrive\Desktop\Asus_Ermal\ermal _krejt\Projekti_TI\ProjektiTI_CallCenter\ProjektiTI_CallCenter\obj\Debug\ProjektiTI_CallCenter.RecordUI.resources
+C:\Users\Admin\OneDrive\Desktop\Asus_Ermal\ermal _krejt\Projekti_TI\ProjektiTI_CallCenter\ProjektiTI_CallCenter\obj\Debug\ProjektiTI_CallCenter.Registration.resources
+C:\Users\Admin\OneDrive\Desktop\Asus_Ermal\ermal _krejt\Projekti_TI\ProjektiTI_CallCenter\ProjektiTI_CallCenter\obj\Debug\ProjektiTI_CallCenter.RegistrationUI.resources
+C:\Users\Admin\OneDrive\Desktop\Asus_Ermal\ermal _krejt\Projekti_TI\ProjektiTI_CallCenter\ProjektiTI_CallCenter\obj\Debug\ProjektiTI_CallCenter.UserList.resources
+C:\Users\Admin\OneDrive\Desktop\Asus_Ermal\ermal _krejt\Projekti_TI\ProjektiTI_CallCenter\ProjektiTI_CallCenter\obj\Debug\ProjektiTI_CallCenter.ViewProfileUI.resources
+C:\Users\Admin\OneDrive\Desktop\Asus_Ermal\ermal _krejt\Projekti_TI\ProjektiTI_CallCenter\ProjektiTI_CallCenter\obj\Debug\ProjektiTI_CallCenter.ViewProjectUI.resources
+C:\Users\Admin\OneDrive\Desktop\Asus_Ermal\ermal _krejt\Projekti_TI\ProjektiTI_CallCenter\ProjektiTI_CallCenter\obj\Debug\ProjektiTI_CallCenter.View_Report.resources
+C:\Users\Admin\OneDrive\Desktop\Asus_Ermal\ermal _krejt\Projekti_TI\ProjektiTI_CallCenter\ProjektiTI_CallCenter\obj\Debug\ProjektiTI_CallCenter.csproj.GenerateResource.cache
+C:\Users\Admin\OneDrive\Desktop\Asus_Ermal\ermal _krejt\Projekti_TI\ProjektiTI_CallCenter\ProjektiTI_CallCenter\obj\Debug\ProjektiTI_CallCenter.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Desktop\Asus_Ermal\ermal _krejt\Projekti_TI\ProjektiTI_CallCenter\ProjektiTI_CallCenter\obj\Debug\ProjektiTI_CallCenter.csproj.CopyComplete
+C:\Users\Admin\OneDrive\Desktop\Asus_Ermal\ermal _krejt\Projekti_TI\ProjektiTI_CallCenter\ProjektiTI_CallCenter\obj\Debug\ProjektiTI_CallCenter.exe
+C:\Users\Admin\OneDrive\Desktop\Asus_Ermal\ermal _krejt\Projekti_TI\ProjektiTI_CallCenter\ProjektiTI_CallCenter\obj\Debug\ProjektiTI_CallCenter.pdb
